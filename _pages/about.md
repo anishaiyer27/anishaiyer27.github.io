@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>UC Berkeley</a> · anisha@berkeley.edu · SEED Scholar · Researcher in Machine Learning, Neurobiology, and Medicine
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Helen Wills Neuroscience Institute</p>
+    <p>University of California, Berkeley</p>
+    <p>anisha@berkeley.edu</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Anisha Iyer (she/her) is a SEED Honors Scholar at UC Berkeley, double majoring in **Computer Science** and **Neurobiology**, with a minor in Clinical Psychology. Her research lies at the intersection of **machine learning, neuroengineering, and molecular neuroscience**, with the goal of advancing our understanding of intelligent systems and developing technologies to address psychiatric and neurological disorders.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+She has conducted **deep reinforcement learning research** on chemonavigation at Harvard’s NSF-Simons Center, studied **olfactory memory and learning** at Harvard’s Center for Brain Science, and investigated **immune-driven pain signaling** using electrophysiology, spinal cord microdissection, and Ca²⁺ imaging for her senior thesis in the **Bautista Lab** at Berkeley’s Helen Wills Neuroscience Institute.
+
+At Berkeley, Anisha has led **software and machine learning projects** in brain-computer interfaces, antibody design, biosignal analysis, and traumatic brain injury detection—collaborating with labs at **UCSF**, **Stanford Medicine**, and **Lawrence Berkeley National Lab**. She’s directed student technical teams in **Neurotech@Berkeley**, **ML@B**, and **MedTech@Berkeley**, and published both scientific and public-facing writing in the *Berkeley Scientific Journal* and machine learning blogs.
+
+Her current interests include:
+- **NeuroAI and computational neuroscience**
+- **Connectomics and theoretical neuroscience**
+- **Molecular mechanisms of learning, pain, and psychiatric disease**
+- **Brain-computer interfaces (BCIs) and neurotechnology**
+- **Machine learning for biology and medicine**
+
+As a first-gen aspiring researcher and female researcher in neurotech, Anisha is passionate about mentoring students from underrepresented backgrounds, particularly those navigating interdisciplinary research paths across biology, computation, and medicine.
+
